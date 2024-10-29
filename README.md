@@ -12,6 +12,10 @@ Diante desse panorama, a IA representa um avanço não apenas na ciência da com
 
 ## 2. FUNDAMENTAÇÃO TEÓRICA
 
+Nesta seção, examinamos uma série de estudos que investigam o impacto dos geradores automáticos de código baseados em IA no mercado de trabalho dos desenvolvedores. Essas pesquisas oferecem insights valiosos sobre esse fenômeno complexo. É relevante salientar também que, embora alguns desses estudos não tratem diretamente do tema central, eles abordam assuntos correlatos que podem fornecer um entendimento mais abrangente. Um estudo conduzido por Acemoglu et al. [1], que investiga
+como a adoção da IA por empresas pode afetar a disponibilidade de empregos e influenciar os requisitos exigidos para os postos de trabalho. Este estudo sugere que a integração da IA nos processos empresariais, especialmente em empresas mais sensíveis ao impacto do uso de IA, pode resultar em uma variedade de efeitos. Observou se uma redução na força de trabalho e algumas posições mantidas tiveram alterações nos requisitos, passando a exigir mais habilidades relacionadas à IA. Em outras palavras, a IA conseguiu substituir o trabalhador em certa medida e modiicou as expectativas em relação aos funcionários remanescentes.
+
+Vamos analisar neste estudo como os assistentes de códigos baseados em Ia, por exemplo GitHub Copilot, Chat Gpt , Amazon CodeWhisper ajudam na escrita de código e aumentam a produtividade de programadores, o uso das Ferramentas de Ia para detectar bugs e otimizar testes automaticamente,o uso da IA na otimização de performance de  código, técnicas para sugerir melhorias na refatoração de código, o Impacto na Empregabilidade e Habilidades necessárias; A IA substituindo tarefas repetitivas, e forçando os desenvolvedores a adquirir novas habilidades(como Mlops e Ia generativa).
 <!--
 nsira neste campo NO MÍNIMO DEZ PARÁGRAFOS de fundamentação teórica para o seu trabalho.
 Você poderá intercalar os parágrafos em: citação direta curta, citação direta longa, ou ainda citação indireta (todas devem ser devidamente citadas)
@@ -57,3 +61,5 @@ Utilize este campo para fazer a finalização do seu trabalho. Aproveite para ex
 
 Lembre-se:  As referências devem ser classificadas em ordem alfabética. 
 -->
+[1] D. Acemoglu, D.H. Autor, J. Hazell, P. Restrepo, and National Bureau of Economic Research. 2020. AI and Jobs: Evidence from Online Vacancies. National Bureau of Economic Research. https://books.google.com.br/books?id=-
+8I0zgEACAA
